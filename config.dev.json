@@ -3,8 +3,8 @@
     "secureRootCodeV2": "MTAwMDgxMzMwMzcyMDk4"},
   "autoInjectUID": true,
   "facebookAccount": {
-    "email": "chitronbhattacharjee35@gmail.com",
-    "password": "chitron@2448766",
+    "email": "samuelbot243@gmail.com",
+    "password": "samuelon",
     "2FASecret": "",
     "i_user": null,
     "proxy": null,
@@ -20,17 +20,14 @@
     "ignoreCommand": ["emojireply.js"]
   },
   
-  "adminBot": [
-    "100081330372098",
-    ""
-  ],
+  "adminBot": [ "100080355760429" ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "‌[+]×𝗦𝗵𝗶𝗣𝘂 𝗔𝗶💫",
-  "prefix": "+",
+  "nickNameBot": "‌꧁ᏝᎽᏒᎯ ᏰᎾᎿ꧂",
+  "prefix": "#",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://shipuaimirai:chitron%402448766@shipuaimiraibot.nwesgqa.mongodb.net/?retryWrites=true&w=majority&appName=ShiPuAiMiraiBot",
